@@ -1,6 +1,3 @@
-Sure! Here's a revised version of the README file for your GitHub repository:
-
----
 
 # GlobalStore Data Analysis
 
@@ -25,7 +22,7 @@ GlobalStore is a fictional online store that sells products globally. This datas
 To run the analysis, clone this repository to your local machine and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/globalstore-data-analysis.git
+git clone https://github.com/DavidKemboi/globalstore-data-analysis.git
 cd globalstore-data-analysis
 pip install -r requirements.txt
 ```
@@ -65,7 +62,3 @@ Contributions to this project are welcome. Feel free to open a pull request or s
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the content and structure of this README to fit your specific project requirements.
